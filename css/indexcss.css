@@ -1,0 +1,37 @@
+* {
+	text-align: center;
+}
+
+body{
+	background-color: #FFAA33; 
+}
+
+a{
+	text-decoration: none;
+}
+
+img:hover {
+	opacity: 0.6;
+}
+
+.intro{
+	border: 5px groove 	#CCFF99;
+	border-radius: 15px;
+	display: inline-block;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #E8CCFF;
+}
+
+.intro p{
+	text-indent: 3px;
+}
+
+#toptool a{
+	border: 5px groove 	#CCFF99;
+	border-radius: 15px;
+	display: inline-block;
+	text-align: center;
+	background-color: #E8CCFF;
+}
